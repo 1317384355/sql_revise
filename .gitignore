@@ -3,6 +3,4 @@ icon/
 background/
 .vscode/
 build/
-*.pro
 *.user
-*.txt
